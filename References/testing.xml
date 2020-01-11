@@ -1,0 +1,3 @@
+<listeners>
+			<listener class-name="com.digiCRMTest.autoqa.ExtentReportListener.ExtentReporterNG" />
+		</listeners>
